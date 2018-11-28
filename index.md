@@ -1,3 +1,6 @@
+## Hi
+I am Pronoy Kanti Mondal, a Statistical Geneticist working at Human Genetics Unit, Indian Statistical Institute, Kolkata.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pronoykanti/pronoykanti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
